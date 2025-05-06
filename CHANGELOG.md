@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-05-05)
+## Unreleased (2025-05-06)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`f9ec3b6`](https://github.com/stdlib-js/stdlib/commit/f9ec3b6e86ad6c9feeb95cb6ed1a356af7f452b9) - **docs:** fix function names _(by Philipp Burckhardt)_
 -   [`1920374`](https://github.com/stdlib-js/stdlib/commit/192037470033f100dfa9ac717733d32ad67f8ead) - **feat:** add C implementation for `stats/base/dists/frechet/mode` [(#4571)](https://github.com/stdlib-js/stdlib/pull/4571) _(by Manvith M, Philipp Burckhardt)_
 -   [`fa15161`](https://github.com/stdlib-js/stdlib/commit/fa15161761664bbdd2123292d3f1d7cf2d0f0a6d) - **bench:** refactor random number generation in `stats/base/dists/frechet` [(#4922)](https://github.com/stdlib-js/stdlib/pull/4922) _(by Karan Anand, stdlib-bot)_
 -   [`27bcbf6`](https://github.com/stdlib-js/stdlib/commit/27bcbf6b931385008c1210cddb77be5c86b6d94c) - **chore:** directly draw from desired distribution and tweak ranges _(by Philipp Burckhardt)_
