@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-05-06)
+## Unreleased (2025-06-20)
 
 <section class="features">
 
@@ -15,6 +15,16 @@
 </section>
 
 <!-- /.features -->
+
+<section class="bug-fixes">
+
+### Bug Fixes
+
+-   [`74596d4`](https://github.com/stdlib-js/stdlib/commit/74596d4df6801d9176bd5027eb237497e9b078c0) - remove unused `eps` dependency from Frechet distribution manifests
+
+</section>
+
+<!-- /.bug-fixes -->
 
 <section class="issues">
 
@@ -34,6 +44,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`74596d4`](https://github.com/stdlib-js/stdlib/commit/74596d4df6801d9176bd5027eb237497e9b078c0) - **fix:** remove unused `eps` dependency from Frechet distribution manifests _(by Philipp Burckhardt)_
 -   [`f9ec3b6`](https://github.com/stdlib-js/stdlib/commit/f9ec3b6e86ad6c9feeb95cb6ed1a356af7f452b9) - **docs:** fix function names _(by Philipp Burckhardt)_
 -   [`1920374`](https://github.com/stdlib-js/stdlib/commit/192037470033f100dfa9ac717733d32ad67f8ead) - **feat:** add C implementation for `stats/base/dists/frechet/mode` [(#4571)](https://github.com/stdlib-js/stdlib/pull/4571) _(by Manvith M, Philipp Burckhardt)_
 -   [`fa15161`](https://github.com/stdlib-js/stdlib/commit/fa15161761664bbdd2123292d3f1d7cf2d0f0a6d) - **bench:** refactor random number generation in `stats/base/dists/frechet` [(#4922)](https://github.com/stdlib-js/stdlib/pull/4922) _(by Karan Anand, stdlib-bot)_
