@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-30)
+## Unreleased (2026-01-19)
 
 <section class="features">
 
@@ -44,6 +44,9 @@ This release closes the following issue:
 
 <details>
 
+-   [`3459117`](https://github.com/stdlib-js/stdlib/commit/345911757db54bdd60ac0e41615b421536a2f4a4) - **test:** remove duplicate test cases in `stats/base/dists/frechet` packages _(by Philipp Burckhardt)_
+-   [`fc438e0`](https://github.com/stdlib-js/stdlib/commit/fc438e0edbad0689d6923d6f3edb959b96597662) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
+-   [`9c21fd2`](https://github.com/stdlib-js/stdlib/commit/9c21fd20ef8b8a6a88abb96d80ea6d8e4c5434eb) - **test:** use .strictEqual() instead of .equal() _(by Philipp Burckhardt)_
 -   [`1f33916`](https://github.com/stdlib-js/stdlib/commit/1f33916dfe5b3d36c0d07c268be7be7ba2dee234) - **chore:** add missing eps dependency so C examples compile _(by Philipp Burckhardt)_
 -   [`b039368`](https://github.com/stdlib-js/stdlib/commit/b039368dc397596a89242970f520ecc06259c3cd) - **bench:** add missing eps dependency so C benchmarks compile _(by Philipp Burckhardt)_
 -   [`74596d4`](https://github.com/stdlib-js/stdlib/commit/74596d4df6801d9176bd5027eb237497e9b078c0) - **fix:** remove unused `eps` dependency from Frechet distribution manifests _(by Philipp Burckhardt)_
